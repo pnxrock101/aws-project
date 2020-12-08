@@ -1,6 +1,6 @@
 customhost = "order-form.cnbzgf9xxeai.us-east-2.rds.amazonaws.com"
 customuser = "pnxrock101"
 custompass = "Awsdb28650"
-customdb = "order-form"
+customdb = "orderform"
 custombucket = "addordr"
 customregion = "us-east-2"
