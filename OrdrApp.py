@@ -31,7 +31,7 @@ def AddOrdr():
     cust_name = request.form['cust_name']
     std_chair = request.form['std-chair']
     bnch_4_2 = request.form['bnch_4_2']
-    pic_table = request.form['pic_table']
+    pic_tbl = request.form['pic_tbl']
     bar = request.form['bar']
     
     insert_sql = "INSERT INTO order-form VALUES (%s, %s, %s, %s, %s)"
